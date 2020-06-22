@@ -1,7 +1,10 @@
 package main
 import "fmt"
+
 func main() {
 	fmt.Println("hello world facebook  @yo yo")
+
+
 	letsgo()
   for i :=0;i<100;i++{
   	if(i%10==0) {
